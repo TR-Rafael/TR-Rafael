@@ -6,9 +6,20 @@
   <img src="https://komarev.com/ghpvc/?username=TR-Rafael&style=flat-square" />
 </a>
 
-- 🔭 I am currently a graduate student in the I am currently a graduate student in course of Computer Science at the Federal University Fluminense.
+I am a software developer with 3 years of professional experience, specializing primarily in the field of QA Engineering. I have expertise in utilizing Cypress as the primary tool to ensure software quality. My strong skills include mastery of JavaScript and C languages, and I also have a good understanding of Python, Java, and C++, enabling me to contribute as a junior backend developer if needed.
 
-☕ Unconditional coffee lover!
+Furthermore, I possess a solid understanding of GitHub, GitLab, CI/CD, and data structures, enhancing my work with version control and efficient project organization. I am recognized for my ability to learn quickly and collaborate effectively within a team. I am committed to contributing to dynamic and challenging environments where I can apply my expertise in software quality and development.
+
+:coffee: Unconditional coffee lover!
+
+:video_game: souls games fan!
+
+:headphones: addicted to MPB and ROCK!
+
+:scroll: Lover of studying philosophy.
+
+
+
 
 ---
 ### Languages and Tools :computer:
